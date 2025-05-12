@@ -1,31 +1,30 @@
-**Version Python** `3.11 ó superior`✅
+**Python Version** `3.11 or higher`✅
 
-# 🚀 ¿CÓMO UTILIZAR EL PROGRAMA?
-En este proyecto vas encontrar al iniciar un menú con todas las opciones que este ofrece desde (**➕ AGREGAR PRODUCTOS** hasta **📊 CALCULAR EL VALOR TOTAL DEL INVENTARIO**), todas las opciones están enumeradas del **1** al **6**.
-Debes **👉 INGRESAR EN LA CONSOLA** el número correspondiente a la opción que quieres usar.
+# 🚀 HOW TO USE THE PROGRAM?
+In this project, you will find a menu when you start with all the options it offers from (**➕ ADD PRODUCTS** to **📊 CALCULATE THE TOTAL VALUE OF THE INVENTORY**), all options are numbered from **1** to **6**. You must **👉 ENTER IN THE CONSOLE** the corresponding number to the option you want to use.
 
 ![image](https://github.com/user-attachments/assets/4ee36be3-3e29-4ec9-b6fd-1102507d9be4)
 
-**NOTA:** Si te **EQUIVOCAS❌** mas de **5 VECES** ingresando **LA OPCIÓN PARA EL MENÚ**, el programa se **CERRARÁ👋** 
+**NOTE:** If you make a **MISTAKE❌** more than **5 TIMES** entering **THE MENU OPTION**, the program will **CLOSE👋**
 
-## ➕ AGREGAR PRODUCTOS
-En esta opción vas a poder agregar productos, donde debes ingresar **✨EL NOMBRE DEL PRODUCTO**, **💲EL PRECIO** y **📦LA CANTIDAD**.
+## ➕ ADD PRODUCTS
+In this option, you will be able to add products, where you must enter **✨THE NAME OF THE PRODUCT**, **💲THE PRICE**, and **📦THE AMOUNT**.
 
-## 🔍 BUSCAR PRODUCTOS
-Aquí podrás buscar los productos y ver a detalle la información del producto que **👉INGRESES EL NOMBRE**.
+## 🔍 SEARCH PRODUCT
+Here you can search for products and see detailed information about the product for which you **👉ENTER THE NAME OF THE PRODUCT**.
 
 ![image](https://github.com/user-attachments/assets/9209ddfb-3332-4d7a-9c24-cad345fabb4a)
 
-## ✏️ ACTUALIZAR PRECIOS
-En esta opción vas a poder actualizar el precio de los productos, solamente debes ingresar **✨EL NOMBRE DEL PRODUCTO** y luego el **💲NUEVO PRECIO**.
+## ✏️ UPDATE PRICES 
+In this option you will be able to update the price of the products, you just need to enter **✨THE NAME OF THE PRODUCT** and then the **💲NEW PRICE**.
 
-## 🗑️ ELIMINAR PRODUCTOS
-En esta funcionalidad puedes eliminar productos del inventario, aquí debes escribir **✨EL NOMBRE DEL PRODUCTO**.
+## 🗑️ DELETE PRODUCTS
+In this functionality, you can delete products from the inventory; here you must write **✨THE NAME OF THE PRODUCT**.
 
-## 📊 CALCULAR EL VALOR TOTAL DEL INVENTARIO
-Finalmente, en esta funcionalidad se **MOSTRARÁ** el **💲COSTO TOTAL DEL INVENTARIO**.
+## 📊 CALCULATE THE TOTAL VALUE OF THE INVENTORY
+Finally, in this functionality, the **💲TOTAL COST OF THE INVENTORY** will be **DISPLAYED**.
 
-## CONSIDERACIONES
-- En **✨EL NOMBRE DEL PRODUCTO** puedes escribir cualquier nombre desde caracteres especiales, letras y números como ***(f@b, escoba, 7Fast)***.
-- En **💲EL PRECIO** debes escribir números enteros y números con decimales como ***(1200 ó 5095.99)***.
-- En **📦LA CANTIDAD** debes escribir un número entero **SIN** decimales como ***(8)***.
+## CONSIDERATIONS
+- In **✨THE PRODUCT NAME** you can write any name using special characters, letters, and numbers such as ***(f@b, broom, 7Fast)***.
+- In **💲THE PRICE** you must write whole numbers and numbers with decimals such as ***(1200 or 5095.99)***.
+- In **📦THE AMOUNT** you must write a whole number **WITHOUT** decimals such as ***(8)***.
